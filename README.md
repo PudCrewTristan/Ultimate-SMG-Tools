@@ -1,63 +1,63 @@
  # Tools Used in this pack
- CANM Editor by PhantomWings,
-Launch Cam Plus by SuperHackio,
-ARC Tools by Lunaboy, JaytheHam, and Anthe,
-SZS Tools by thankis/BAT Files by Aurum,
-WSZST by Wiimm,
-AW Extractor by thankis and Aurum,
-WiiExplorer (Original) by Mega-Mario/Staple Butter,
-WiiExplorer (Hackio) by SuperHackio,
-WiiScrubber by ???,
-Anarchy in the Galaxy by PhantomWings,
-BCSV Editor by marionumber1,
-Dossun2 by Aurum,
-Hash Calculator for SMG by Aurum,
-Scenaristar.V1.0.0.0 by SuperHackio,
-Syati by shibboleet,
-Whitehole v1.1.2, v1.1.3, v1.2, v1.3, v1.4.3, v1.5.1, v1.6 and WhiteholeForSMG1 by StapleButter, Phantom Wings, Treeki, yaz0r, thakis, groepaz, Dirbaio, shibboleet, NWPlayer123. Aurum, JuPaHe64, TheSunCat, SmudgeDraws, Luma48, OcelotGaming, Arisotura, Mark Cangila, Bussun and IonicPixels,
-New ObjectDatabase by shibboleet,
-Takochu (Beta Stages) by shibboleet
-World Map Editor by PhantomWings and shibboleet,
-BDL Create by blank,
-BDL To BMD converter by blank,
-BMD & BDL Viewer by ???,
-BMD To BDL converter by blank,
-btk-conv-1.1.2 by Yoshi2,
-Collision Creator 0.6 & 0.7 by ???,
-Collision Exporter by blank,
-j3dview by Yoshi2,
-KCL Create by blank,
-Model Importer GUI by shibboleet & Anthe,
-SuperBMD by Yoshi2,
-BrawlBox by ???,
-Midi to BMS by ???,
-astConverter by Anthe, blank, hcs, MP3Doctor, and gericom,
-Aurum's AllnOne-Pack by Aurum,
-Aurum's ASM Pack and More by Aurum,
-BTI Tools by Anthe and ???/BAT file by Aurum,
-Hackio (US-KOR) by EPICHICKENSOUP,
-List by oolllddd,
-pyBCK by marionumber1,
-pyJPC by NWPlayer123,
-pyTEX1 by marionumber1,
-pyTools by NWPlayer123,
-riivo2dolphin by Aurum
-RiivoXMLCreate v1.0/Neo (v1.5) by Aurum,
-SMG1 Crash Debugger by shibboleet,
-SMG2 Starter Pack by Aurum/Crash Debugger by Treeki
-Wii Layout Editor by Gericom,
-Flying and Ice Mario in SMG2 by marionumber1,
-SMG1/SMG2 Galaxy Templates/Cheats by Young Master Luma,
-SMG1 Galaxy Template by shibboleet,
-SMG1 Zone Template by PudvahCrew,
-SMG2 Galaxy Template by shibboleet,
-SMG2 XML Template by Aurum,
-SMG2 Zone Template by Aurum,
-MessageID Patch for SMG1 by Zyphro
-honoruty by EPICHICKENSOUP
-NuntiusNovus/msbconv by Anthe, blank and NWPlayer123,
+CANM Editor by PhantomWings,<br/>
+Launch Cam Plus by SuperHackio,<br/>
+ARC Tools by Lunaboy, JaytheHam, and Anthe,<br/>
+SZS Tools by thankis/BAT Files by Aurum,<br/>
+WSZST by Wiimm,<br/>
+AW Extractor by thankis and Aurum,<br/>
+WiiExplorer (Original) by Mega-Mario/Staple Butter,<br/>
+WiiExplorer (Hackio) by SuperHackio,<br/>
+WiiScrubber by ???,<br/>
+Anarchy in the Galaxy by PhantomWings,<br/>
+BCSV Editor by marionumber1,<br/>
+Dossun2 by Aurum,<br/>
+Hash Calculator for SMG by Aurum,<br/>
+Scenaristar.V1.0.0.0 by SuperHackio,<br/>
+Syati by shibboleet,<br/>
+Whitehole v1.1.2, v1.1.3, v1.2, v1.3, v1.4.3, v1.5.1, v1.6 and WhiteholeForSMG1 by StapleButter, Phantom Wings, Treeki, yaz0r, thakis, groepaz, Dirbaio, shibboleet, NWPlayer123. Aurum, JuPaHe64, TheSunCat, SmudgeDraws, Luma48, OcelotGaming, Arisotura, Mark Cangila, Bussun and IonicPixels,<br/>
+New ObjectDatabase by shibboleet,<br/>
+Takochu (Beta Stages) by shibboleet<br/>
+World Map Editor by PhantomWings and shibboleet,<br/>
+BDL Create by blank,<br/>
+BDL To BMD converter by blank,<br/>
+BMD & BDL Viewer by ???,<br/>
+BMD To BDL converter by blank,<br/>
+btk-conv-1.1.2 by Yoshi2,<br/>
+Collision Creator 0.6 & 0.7 by ???,<br/>
+Collision Exporter by blank,<br/>
+j3dview by Yoshi2,<br/>
+KCL Create by blank,<br/>
+Model Importer GUI by shibboleet & Anthe,<br/>
+SuperBMD by Yoshi2,<br/>
+BrawlBox by ???,<br/>
+Midi to BMS by ???,<br/>
+astConverter by Anthe, blank, hcs, MP3Doctor, and gericom,<br/>
+Aurum's AllnOne-Pack by Aurum,<br/>
+Aurum's ASM Pack and More by Aurum,<br/>
+BTI Tools by Anthe and ???/BAT file by Aurum,<br/>
+Hackio (US-KOR) by EPICHICKENSOUP,<br/>
+List by oolllddd,<br/>
+pyBCK by marionumber1,<br/>
+pyJPC by NWPlayer123,<br/>
+pyTEX1 by marionumber1,<br/>
+pyTools by NWPlayer123,<br/>
+riivo2dolphin by Aurum<br/>
+RiivoXMLCreate v1.0/Neo (v1.5) by Aurum,<br/>
+SMG1 Crash Debugger by shibboleet,<br/>
+SMG2 Starter Pack by Aurum/Crash Debugger by Treeki<br/>
+Wii Layout Editor by Gericom,<br/>
+Flying and Ice Mario in SMG2 by marionumber1,<br/>
+SMG1/SMG2 Galaxy Templates/Cheats by Young Master Luma,<br/>
+SMG1 Galaxy Template by shibboleet,<br/>
+SMG1 Zone Template by PudvahCrew,<br/>
+SMG2 Galaxy Template by shibboleet,<br/>
+SMG2 XML Template by Aurum,<br/>
+SMG2 Zone Template by Aurum,<br/>
+MessageID Patch for SMG1 by Zyphro<br/>
+honoruty by EPICHICKENSOUP<br/>
+NuntiusNovus/msbconv by Anthe, blank and NWPlayer123,<br/>
 
 # Tools Packs Used To Make This Pack:
-Galaxy Pack 1.2 - Aurum
-Super Mario Galaxy Tools - Alex SMG
-Tools? - Froggo
+Galaxy Pack 1.2 - Aurum<br/>
+Super Mario Galaxy Tools - Alex SMG<br/>
+Tools? - Froggo<br/>
