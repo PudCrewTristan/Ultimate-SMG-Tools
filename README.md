@@ -1,2 +1,63 @@
-# Ultimate-SMG-Tools
-Ultimate Super Mario Galaxy Tools is a SMG Tool Pack which includes a bunch of SMG Modding Tools that are great to either get started or continue making SMG custom levels
+ # Tools Used in this pack
+ CANM Editor by PhantomWings,
+Launch Cam Plus by SuperHackio,
+ARC Tools by Lunaboy, JaytheHam, and Anthe,
+SZS Tools by thankis/BAT Files by Aurum,
+WSZST by Wiimm,
+AW Extractor by thankis and Aurum,
+WiiExplorer (Original) by Mega-Mario/Staple Butter,
+WiiExplorer (Hackio) by SuperHackio,
+WiiScrubber by ???,
+Anarchy in the Galaxy by PhantomWings,
+BCSV Editor by marionumber1,
+Dossun2 by Aurum,
+Hash Calculator for SMG by Aurum,
+Scenaristar.V1.0.0.0 by SuperHackio,
+Syati by shibboleet,
+Whitehole v1.1.2, v1.1.3, v1.2, v1.3, v1.4.3, v1.5.1, v1.6 and WhiteholeForSMG1 by StapleButter, Phantom Wings, Treeki, yaz0r, thakis, groepaz, Dirbaio, shibboleet, NWPlayer123. Aurum, JuPaHe64, TheSunCat, SmudgeDraws, Luma48, OcelotGaming, Arisotura, Mark Cangila, Bussun and IonicPixels,
+New ObjectDatabase by shibboleet,
+Takochu (Beta Stages) by shibboleet
+World Map Editor by PhantomWings and shibboleet,
+BDL Create by blank,
+BDL To BMD converter by blank,
+BMD & BDL Viewer by ???,
+BMD To BDL converter by blank,
+btk-conv-1.1.2 by Yoshi2,
+Collision Creator 0.6 & 0.7 by ???,
+Collision Exporter by blank,
+j3dview by Yoshi2,
+KCL Create by blank,
+Model Importer GUI by shibboleet & Anthe,
+SuperBMD by Yoshi2,
+BrawlBox by ???,
+Midi to BMS by ???,
+astConverter by Anthe, blank, hcs, MP3Doctor, and gericom,
+Aurum's AllnOne-Pack by Aurum,
+Aurum's ASM Pack and More by Aurum,
+BTI Tools by Anthe and ???/BAT file by Aurum,
+Hackio (US-KOR) by EPICHICKENSOUP,
+List by oolllddd,
+pyBCK by marionumber1,
+pyJPC by NWPlayer123,
+pyTEX1 by marionumber1,
+pyTools by NWPlayer123,
+riivo2dolphin by Aurum
+RiivoXMLCreate v1.0/Neo (v1.5) by Aurum,
+SMG1 Crash Debugger by shibboleet,
+SMG2 Starter Pack by Aurum/Crash Debugger by Treeki
+Wii Layout Editor by Gericom,
+Flying and Ice Mario in SMG2 by marionumber1,
+SMG1/SMG2 Galaxy Templates/Cheats by Young Master Luma,
+SMG1 Galaxy Template by shibboleet,
+SMG1 Zone Template by PudvahCrew,
+SMG2 Galaxy Template by shibboleet,
+SMG2 XML Template by Aurum,
+SMG2 Zone Template by Aurum,
+MessageID Patch for SMG1 by Zyphro
+honoruty by EPICHICKENSOUP
+NuntiusNovus/msbconv by Anthe, blank and NWPlayer123,
+
+# Tools Packs Used To Make This Pack:
+Galaxy Pack 1.2 - Aurum
+Super Mario Galaxy Tools - Alex SMG
+Tools? - Froggo
