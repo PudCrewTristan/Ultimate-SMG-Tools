@@ -1,5 +1,5 @@
 # What is Ultimate SMG Tools?
-Ultimate Super Mario Galaxy Tools is a SMG Tool Pack which includes a bunch of SMG Modding Tools that are great to either get started or continue making SMG custom levels. This will be regularly updated, so keep an eye out lol.
+Ultimate Super Mario Galaxy Tools is a SMG Tool Pack which includes a bunch of SMG Modding Tools that are great to either get started or continue making SMG custom levels. This will be regularly updated, so keep an eye out.
 
 # Tools Used in this pack
 CANM Editor by PhantomWings,<br/>
